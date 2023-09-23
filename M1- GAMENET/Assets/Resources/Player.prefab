@@ -654,7 +654,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 6389303222809049270}
-  playerNameText: {fileID: 0}
+  playerNameText: {fileID: 8474222190455934315}
 --- !u!114 &3884055638881022499
 MonoBehaviour:
   m_ObjectHideFlags: 0
